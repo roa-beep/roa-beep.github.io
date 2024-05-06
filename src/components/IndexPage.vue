@@ -281,7 +281,27 @@
         </div>
       </div>
     </div>
-
+    <div
+      data-w-id="a33510ee-228e-eaaa-6baf-5bde8b8e2d5c"
+      class="section-timeline-cta"
+    >
+      <div class="container">
+        <div class="padding-vertical-xlarge">
+          <div class="timeline-main_heading-wrapper">
+            <div class="margin-bottom-medium">
+              <h2>
+                <strong>Tracing my steps on this professional journey.</strong>
+              </h2>
+            </div>
+            <p class="paragraph-large">
+              From the classroom to industry-leading projects, I started solo,
+              fueled by a passion for tech. <br />It kicked off just over three
+              years ago... Strap in.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
   </BaseLayout>
 </template>
 
