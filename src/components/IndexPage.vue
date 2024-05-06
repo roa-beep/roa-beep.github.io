@@ -302,6 +302,57 @@
         </div>
       </div>
     </div>
+    <div class="section-footer">
+      <div class="background-layer"></div>
+      <div class="container">
+        <div class="padding-vertical-footer">
+          <div class="footer_text-wrapper">
+            <div class="margin-bottom-small">
+              <h2>Enjoyed my work?</h2>
+            </div>
+            <div class="margin-bottom-medium">
+              <h4>Keep an eye out for more milestones</h4>
+            </div>
+            <div class="margin-bottom-large">
+              <p class="paragraph-large">
+                Reach out for career prospects or to provide feedback. Stay
+                updated by following me on my featured platforms.
+              </p>
+            </div>
+            <div class="button-wrapper">
+              <a
+                href="mailto:roa.brahimi@mail.utoronto.ca"
+                class="button-icon-small margin-right-small w-inline-block"
+                ><img
+                  src="../../public/img/email-icon-white.svg"
+                  loading="lazy"
+                  alt=""
+                  class="button-icon"
+                />
+                <div>EMAIL ME</div>
+              </a>
+              <a
+                href="https://discord.com/users/583305080695029780"
+                target="_blank"
+                class="button-icon-small-secondary w-inline-block"
+                ><img
+                  src="../../public/img/discord-square-color-icon.svg"
+                  loading="lazy"
+                  alt=""
+                  class="button-icon"
+                />
+                <div>DISCORD LINK</div>
+              </a>
+            </div>
+          </div>
+          <div class="footer_credits-wrapper">
+            <p>
+              Developed by Roa © 2024 | Relume Figma Kit © 2021
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
   </BaseLayout>
 </template>
 
@@ -318,4 +369,5 @@ export default {
 
 <style scoped>
 @import "../../public/styles/timeline.css";
+@import "../../public/styles/footer.css";
 </style>
