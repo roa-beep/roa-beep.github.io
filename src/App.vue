@@ -1,14 +1,14 @@
 <template>
-  <BaseLayout />
+    <IndexPage />
 </template>
 
 <script>
-import BaseLayout from './components/BaseLayout.vue'
+import IndexPage from './components/IndexPage.vue'
 
 export default {
-  name: 'App',
   components: {
-    BaseLayout
+    IndexPage
   }
 }
+
 </script>
