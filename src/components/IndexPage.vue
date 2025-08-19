@@ -217,10 +217,10 @@
             </div>
           </div>
           <div data-w-id="d5abcf1f-3370-3eea-ccfd-66f076babfe1" class="timeline_item">
-            <div id="l" class="timeline_left">
+            <div id="h" class="timeline_left">
               <div class="timeline_date-text">Summer 2023</div>
             </div>
-            <div id="m" class="timeline_centre">
+            <div id="i" class="timeline_centre">
               <div class="timeline_circle"></div>
             </div>
             <div id="n" class="timeline_right">
@@ -269,10 +269,10 @@
             </div>
           </div>
           <div data-w-id="5b7ae63b-6f00-e542-a023-96ea5c4a96e3" class="timeline_item">
-            <div id="o" class="timeline_left">
+            <div id="h" class="timeline_left">
               <div class="timeline_date-text">Summer 2022</div>
             </div>
-            <div id="p" class="timeline_centre">
+            <div id="i" class="timeline_centre">
               <div class="timeline_circle"></div>
             </div>
             <div class="timeline_right">
@@ -322,10 +322,10 @@
             </div>
           </div>
           <div data-w-id="cea39288-a86d-bc98-0716-192fe18bb831" class="timeline_item">
-            <div id="q" class="timeline_left">
+            <div id="h" class="timeline_left">
               <div class="timeline_date-text">Also in Summer 2022</div>
             </div>
-            <div id="r" class="timeline_centre">
+            <div id="i" class="timeline_centre">
               <div class="timeline_circle"></div>
             </div>
             <div class="timeline_right">
@@ -343,10 +343,10 @@
             </div>
           </div>
           <div data-w-id="0488106f-ce92-9b7b-01c3-8ad75f3f5e35" class="timeline_item">
-            <div id="s" class="timeline_left">
+            <div id="h" class="timeline_left">
               <div class="timeline_date-text">Summer 2021</div>
             </div>
-            <div id="t" class="timeline_centre">
+            <div id="i" class="timeline_centre">
               <div class="timeline_circle"></div>
             </div>
             <div class="timeline_right">
@@ -361,10 +361,10 @@
             </div>
           </div>
           <div data-w-id="72497fc0-4591-9daf-81b3-b917784e7930" class="timeline_item">
-            <div id="u" class="timeline_left">
+            <div id="h" class="timeline_left">
               <div class="timeline_date-text">Fall 2020</div>
             </div>
-            <div id="v" class="timeline_centre">
+            <div id="i" class="timeline_centre">
               <div class="timeline_circle"></div>
             </div>
             <div class="timeline_right">
