@@ -36,6 +36,74 @@
           </div>
           <div data-w-id="d5abcf1f-3370-3eea-ccfd-66f076babfe0" class="timeline_item">
             <div id="a" class="timeline_left">
+              <div class="timeline_date-text">Q4 2025</div>
+            </div>
+            <div id="b" class="timeline_centre">
+              <div class="timeline_circle"></div>
+            </div>
+            <div id="c" class="timeline_right">
+              <div class="timeline_image-wrapper">
+                <img src="../../public/img/application-observability.png" loading="lazy" width="480" alt="" />
+              </div>
+              <div class="margin-bottom-medium">
+                <div class="timeline_text">
+                  <br />Built service topology visualization and OpenTelemetry standardization pilot for Stablecoin
+                  org's APM capabilities. Implemented service graph dependency maps with namespace tracking and
+                  automatic instance identification across all environments.
+                </div>
+              </div>
+              <div class="timeline_quote-wrapper">
+                <img src="../../public/img/Grafana-Application-Observability-Icon.png" loading="lazy" width="50" alt=""
+                  class="timeline_quote-image" />
+                <div class="timeline_quote-text-wrapper">
+                  <p class="timeline_quote">
+                    Processing 2,800+ spans/second across all environments with peaks at 1,500+ spans/s in dev and 1,249
+                    spans/s in staging. Configured
+                    OpenTelemetry Operator resource attribute priority for outbound instance identification and
+                    established cardinality management patterns preventing system degradation at scale.<br />
+                  </p>
+                  <p class="timeline_quote-title">APM Impact<br /></p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div data-w-id="d5abcf1f-3370-3eea-ccfd-66f076babfe1" class="timeline_item">
+            <div id="a" class="timeline_left">
+              <div class="timeline_date-text">Q3 2025</div>
+            </div>
+            <div id="b" class="timeline_centre">
+              <div class="timeline_circle"></div>
+            </div>
+            <div id="c" class="timeline_right">
+              <div class="timeline_image-wrapper">
+                <img src="../../public/img/logging-operator.svg" loading="lazy" width="180" alt=""
+                  style="display: block; margin: 0 auto;" />
+              </div>
+              <div class="margin-bottom-medium">
+                <div class="timeline_text">
+                  <br />Extended existing Logging Operator infrastructure to support dual-destination log forwarding
+                  (Loki + S3) for Stablecoin security compliance. Collaborated with Infosec on IRSA cross-account
+                  authentication eliminating node IAM role fallback. Configured ClusterOutput and ClusterFlow resources
+                  with tuned buffer parameters and coordinated multi-day SIEM validation across all environments.
+                </div>
+              </div>
+              <div class="timeline_quote-wrapper">
+                <img src="../../public/img/s3-logo.svg" loading="lazy" width="50" alt=""
+                  class="timeline_quote-image" />
+                <div class="timeline_quote-text-wrapper">
+                  <p class="timeline_quote">
+                    Configured 10M chunk limits with 5GB buffer capacity, 10-thread flush processing, and 30 retry
+                    attempts preventing data loss during ingestion. Established file-backed buffering with gzip
+                    compression and block overflow protection. Pipeline now serves as the validated reference pattern
+                    for compliance-driven dual-destination log exports.<br />
+                  </p>
+                  <p class="timeline_quote-title">Compliance Impact<br /></p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div data-w-id="d5abcf1f-3370-3eea-ccfd-66f076babfe0" class="timeline_item">
+            <div id="a" class="timeline_left">
               <div class="timeline_date-text">Q2 2025</div>
             </div>
             <div id="b" class="timeline_centre">
