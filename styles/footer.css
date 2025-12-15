@@ -1,0 +1,35 @@
+.section-footer {
+    position: relative;
+  }
+  
+  .padding-vertical-footer {
+    padding-top: 120px;
+    padding-bottom: 40px;
+  }
+  
+  .footer_text-wrapper {
+    max-width: 640px;
+    text-align: center;
+    margin-bottom: 120px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+  }
+  .footer_credits-wrapper {
+      z-index: 1;
+      justify-content: flex-end;
+      align-items: center;
+      display: flex;
+      position: relative;
+    }
+  
+  @media screen and (max-width: 767px) {
+    .padding-vertical-footer {
+      padding-top: 80px;
+      padding-bottom: 64px;
+    }
+    .footer_credits-wrapper {
+      flex-direction: column-reverse;
+    }
+  }
+  
